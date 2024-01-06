@@ -1,4 +1,5 @@
 # Query
+Please find the SQL statements in the exercises.sql file located within the /src/main/java/kz/singularity/databasequery/ directory
 
 Список задач:
 1.	Напишите запрос, который выводит Customers (только их полные имена, идентификатор клиента и страну), которые не находятся в US. На выходе в первой колонке должны быть имя и фамилия клиента, во второй идентификатор клиента, в третьей название страны.
